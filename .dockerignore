@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Tests et caches
+.pytest_cache/
+.mypy_cache/
+
+# Fichiers locaux et secrets
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
